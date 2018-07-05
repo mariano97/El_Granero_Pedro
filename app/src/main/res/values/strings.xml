@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">El Granero Pedro</string>
+
+    <!-- SplashActivity -->
+    <string name="saplashActivity_welcome">Bienvenido</string>
+    <string name="saplashActivity_please_sign_up">Por favor registrate</string>
+    <string name="saplashActivity_please_complete_registry">Por favor complete el registro</string>
+
+    <!-- Activity of LogIn -->
+    <string name="select_login_field_email">Correo electronico</string>
+    <string name="select_login_field_password">Contraseña</string>
+    <string name="select_login_log_in">Iniciar sesión</string>
+    <string name="select_login_sign_up">No tienes una cuenta? Resgistrate aqui.</string>
+    <string name="select_login_recovery_pass">Olvide mi contraseña</string>
+    <string name="login_alert_invalid_email_pass">Correo electronico o contraseña invalida, por favor
+        ingrese un correo electronico valido o una contraseña con más de 6 caracteres</string>
+    <string name="login_alert_email_pass_empty">Los campos del correo electronico o de la contraseña se encuentran vacios</string>
+    <string name="select_login_auth_failed">Autenticación fallida</string>
+    <string name="login_err_verif_send_email">Error al Enviar Email: </string>
+    <string name="select_login_verif_send_email">Se ha Enviado  Email</string>
+    <string name="select_login_field_email_empty">El campo del correo electronico esta vacio</string>
+
+    <!-- Activity of MainActivy -->
+    <string name="mainActivity_form_registry">Registro de usuario</string>
+    <string name="mainActivity_form_registry_cedula">Cédula</string>
+    <string name="mainActivity_form_registry_first_name">Nombres</string>
+    <string name="mainActivity_form_registry_second_name">Apellidos</string>
+    <string name="mainActivity_form_registry_birthdate">Fecha de nacimiento</string>
+    <string name="mainActivity_form_registry_age">Edad</string>
+    <string name="mainActivity_form_registry_address">Direccion de Residencia</string>
+    <string name="mainActivity_form_registry_distric">Barrio</string>
+    <string name="mainActivity_form_registry_municipality">Municipio</string>
+    <string name="mainActivity_form_registry_phone">Telefono</string>
+    <string name="mainActivity_form_registry_complete_registry">Completar registro</string>
+    <string name="mainActivity_form_registry_rpt_age">años</string>
+    <!--  Activity of MainActivy message assert-->
+    <string name="message_assert_complete_registry">Registro Completo</string>
+    <!-- Activity of MainActivy Message err-->
+    <string name="message_err_id">Numero de cédula invalido</string>
+    <string name="message_err_firstsecond_name">Por favor ingrese solamente letras</string>
+    <string name="message_err_address">Direccion de residencia incorrecto</string>
+    <string name="message_err_phone">Telefono Incorrecto</string>
+    <string name="message_err_age">No tiene la edad suficiente</string>
+    <string name="message_err_user_exist">El número de cedula ya existe, por favor verifique</string>
+
+
+
+
+
+    <!--<string name="mainActivity_form_registry_email">Correo electronico</string>
+    <string name="mainActivity_form_registry_password">Contraseña</string>
+    <string name="mainActivity_form_registry_continue">Continue</string>
+
+    <string name="mainActivity_form_registry_formato_birthdate">DD/MM/AAAA</string>
+
+    <string name="select_login_selection_of_log_in">Iniciar Sesion</string>-->
+
+
+
+
+    <string name="select_login_log_out">Cerra sesión</string>
+
+    <string name="title_activity_log_in">Iniciar Sesión</string>
+
+
+
+
+
+    <!-- Strings related to login ==== sin uso -->
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+</resources>

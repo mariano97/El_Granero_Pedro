@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "306503706538",
+    "firebase_url": "https://elgraneropedro.firebaseio.com",
+    "project_id": "elgraneropedro",
+    "storage_bucket": "elgraneropedro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306503706538:android:1a6c351a11b6c358",
+        "android_client_info": {
+          "package_name": "surabastos.pedro.granero.com.el_granero_pedro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306503706538-9oo61jhoml4cchf5j35121lcfnkjpl5m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "surabastos.pedro.granero.com.el_granero_pedro",
+            "certificate_hash": "f5b32d1843ed0f2950278e81506d00e5f9c2c3a5"
+          }
+        },
+        {
+          "client_id": "306503706538-5a0mgau92tk41dnua56r7v5qtt1706s2.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "306503706538-5a0mgau92tk41dnua56r7v5qtt1706s2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBL83Pw0JClsFa8cWdhGQOJ0xFRLXW6Ss"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306503706538-5a0mgau92tk41dnua56r7v5qtt1706s2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
